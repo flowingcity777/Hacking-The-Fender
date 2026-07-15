@@ -57,7 +57,7 @@ This repository is part of my Python learning portfolio.
 Completed Projects
 
 - ✅ Coded Correspondence
-- ✅ Password Security
+- ✅ Hacker The Fender
 
 Upcoming Projects
 
